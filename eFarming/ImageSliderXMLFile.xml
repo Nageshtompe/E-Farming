@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  
+<Ad>    <ImageUrl>images/slide1.jpg</ImageUrl>    </Ad> 
+<Ad>    <ImageUrl>images/slide2.jpg</ImageUrl>    </Ad>  
+<Ad>    <ImageUrl>images/slide6.jpg</ImageUrl>    </Ad>
+<Ad>    <ImageUrl>images/slide7.jpg</ImageUrl>    </Ad>
+<Ad>    <ImageUrl>images/slide8.jpg</ImageUrl>    </Ad>
+<Ad>    <ImageUrl>images/slide9.jpg</ImageUrl>    </Ad>
+<Ad>    <ImageUrl>images/slide10.jpg</ImageUrl>   </Ad>
+<Ad>    <ImageUrl>images/slide11.png</ImageUrl>  </Ad>
+<Ad>    <ImageUrl>images/topleft.jpg</ImageUrl>   </Ad>
+<Ad>    <ImageUrl>images/slide12.jpg</ImageUrl>   </Ad>
+
+</Advertisements>
